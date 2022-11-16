@@ -7,13 +7,13 @@
     <title>UFO</title>
 </head>
 <body style="background-color: blue;">
-    <main style="width:50%; margin-top: 100px; margin-left: 25%;">
-        <div>
-            <h1 style="color:white;">404</h1>
-            <p style="color:white; text-transform: uppercase; font-weight: bold;">Page not found</p>
+    <main style="width:50%; margin-top: 100px; margin-left: 25%; display: inline-block;">
+        <div style="width: 35%;float: left; margin-top: 120px;">
+            <h1 style="color:white; font-size: 70px; margin: 0;">404</h1>
+            <p style="color:white; text-transform: uppercase; font-weight: bold; font-size: 30px; margin: 0; margin-bottom: 20px;">Page not found</p>
             <a href="#" style="color:white;">Go to home</a>
         </div>
-        <img src="./img/ufo.jpg" alt="UFO lėkštė">
+        <img src="./img/ufo.jpg" alt="UFO lėkštė" style="width: 60%; float: right;">
     </main>
 </body>
 </html>
@@ -35,5 +35,18 @@ text-transform: uppercase;
 elementų stumdymas tarpusavyje
 
 margin: 100px; visomis kryptimis aplink save
+
+elementu atvaizdavimas:
+
+display: block;  - dauguma elementų (visi block elementai krenta vienas po kitu)
+
+display: inline;   - elementas elgiasi kaip žodis tekste
+
+display: inline-block;   -jeigu elementai telpa i viena eilute - suguls; jei netelpa tai sekantis krenta į naują eilutę; jei jame yra daugiau turinio nei tilptu pas tėvą, tai jo max plotis yra 100%
+
+Priverstinis elementų sustūmimas pasirinkta kryptimi:
+
+float: left;
+float: right;
 
  -->
