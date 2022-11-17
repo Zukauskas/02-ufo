@@ -1,11 +1,68 @@
-# 02-ufo
-Simple 404 page design. Learning HTML and CSS
+# UFO
 
-- bullet point 1
-- bullet point 2
-- bullet point 3
+_website design project_
 
-- [ ] checkboxas
-- [x] checkboxas checked
+<br>
 
-[nuoroda](https://examle.com)
+## 🌟 About
+
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
+Site published at: https://github.com/Zukauskas/02-ufo
+
+Design: [UFO](./img/design.png)
+
+## 🎯 Project features/goals
+
+-   Github pages
+-   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
+https://nodejs.org
+```
+
+Git - _download and install_
+
+```
+https://git-scm.com
+```
+
+### 🏃 Run locally
+
+Would like to run this project locally? Open terminal and follow these steps:
+
+1. Clone the repo
+    ```sh
+    git clone https://github.com/Zukauskas/02-ufo.git
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
+
+### 🧪 Running tests
+
+There is no tests for this project.
+
+## 🎅 Authors
+
+Tautvydas: [Github](https://github.com/Zukauskas)
+
+## 🔗 Other resources
+
+No other resources.
