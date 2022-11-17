@@ -63,6 +63,10 @@ There is no tests for this project.
 
 Tautvydas: [Github](https://github.com/Zukauskas)
 
+## ⚠️ License
+
+Distributed under the MIT License. See LICENSE for more information.
+
 ## 🔗 Other resources
 
 No other resources.
