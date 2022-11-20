@@ -1,3 +1,5 @@
+![LICENSE](https://img.shields.io/github/license/zukauskas/02-ufo?style=for-the-badge)
+
 # UFO
 
 _website design project_
