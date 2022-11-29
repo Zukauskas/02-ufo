@@ -2,27 +2,27 @@ body {
     background-color: #4e78e5;
 }
 
-main {
+.main-content {
     width:50%; 
     margin-top: 200px;
     margin-left: 25%; 
     display: inline-block;
 }
 
-div {
+.content-left {
     width: 35%;
     float: left;
     margin-top: 120px;
 }
 
-h1 {
+.main-title {
     color:white;
     font-size: 80px;
     margin: 0;
     font-family: fantasy, sans-serif;
 }
 
-p {
+.main-description {
     color:white; 
     text-transform: uppercase; 
     font-family: fantasy, sans-serif; 
@@ -32,7 +32,7 @@ p {
     margin-bottom: 20px;
 }
 
-a {
+.btn {
     display:inline-block; 
     color:white; 
     text-decoration: none; 
@@ -45,7 +45,7 @@ a {
     border-radius: 21px;
 }
 
-img {
+.content-right {
     width: 60%;
     float: right;
 }
